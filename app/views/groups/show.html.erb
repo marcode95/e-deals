@@ -22,7 +22,7 @@
 </div>
 <div class="main-page single-group-main-page bg-grey">
   <div class="trans-container">
-    <% @group.deals.each do |deal| %>
+    <% @group.deals.includes(:user).each do |deal| %>
       <div class="single-trans-container bg-white grey d-flex">
         <div class="single-trans-container-info d-flex flex-column justify-content-between w-100">
           <div class="single-trans-container-info-up d-flex justify-content-between">
