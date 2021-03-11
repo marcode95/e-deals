@@ -21,6 +21,10 @@
   top: 17.5rem;
 }
 
+.group-main-page a {
+  text-decoration: none;
+}
+
 .single-group-main-page {
   top: 38.314rem;
 }
@@ -161,12 +165,6 @@ input {
   width: 85%;
   height: 0;
   border: 3px solid grey;
-}
-
-.submit-button-fuck-you {
-  font-size: 88px;
-  background-color: transparent;
-  border: 3px solid white;
 }
 
 .form-container {

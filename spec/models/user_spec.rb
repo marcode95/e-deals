@@ -13,7 +13,7 @@ RSpec.describe User, type: :model do
     should validate_presence_of(:name)
   end
 
-  it "checks if name not empty" do
+  it 'checks if name not empty' do
     @user = User.create(name: '')
     expect(@user.valid?).not_to eq true
   end

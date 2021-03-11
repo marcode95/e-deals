@@ -1,8 +1,15 @@
 # E-DEALS - Keep your spendings in check!
 
-Keep your spendings in check with E-DEALS! Create reminders for transactions you've made! Create groups like 'Food' or 'Sports' to categorize your spendings and share them with family&friends! Add already existing Transactions to Groups! Simply sign-up with your username and (you know what it is) KEEP YOUR SPENDINGS IN CHECK! asdfasdfasdfasdf
+Keep your spendings in check with E-DEALS! Create reminders for transactions you've made! Create groups like 'Food' or 'Sports' to categorize your spendings and share them with family&friends! Add already existing Transactions to Groups! Simply sign-up with your username and (you know what it is) KEEP YOUR SPENDINGS IN CHECK!
 
-![img](./app/assets/images/showcase.png)
+## Display
+
+E-DEALS is a mobile app running flawlessly on devices with widths of more than 300 pixels! Remember to turn on 'Touch Simulation' in Firefox and to choose a mobile device in Chrome before checking out the app!
+
+<p float="left">
+    <img src="./app/assets/images/mockup1.png"/>
+    <img src="./app/assets/images/mockup2.png"/>
+</p>
 
 ## Built With
 
@@ -19,7 +26,7 @@ https://www.loom.com/share/a451dd1b90894964b2c5af36d7428a4a
 
 ## Live Demo
 
-To be updated!
+http://gentle-ridge-64258.herokuapp.com/welcome
 
 ## Getting Started
 
@@ -60,4 +67,4 @@ You can look at the design [here](https://www.behance.net/gallery/19759151/Snaps
 
 ## 📝 License
 
-This project is [MIT](lic.url) licensed.
+This project is MIT licensed.

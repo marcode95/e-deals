@@ -29,7 +29,7 @@ module GroupsHelper
 
   def index_attached?(obj)
     if obj.image.attached?
-      render partial: 'index-single-image', locals: {group: obj}
+      render partial: 'index-single-image', locals: { group: obj }
     else
       render partial: 'no-image'
     end

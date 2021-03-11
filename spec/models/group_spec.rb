@@ -9,7 +9,7 @@ RSpec.describe Group, type: :model do
     should validate_presence_of(:name)
   end
 
-  it "checks if name not empty" do
+  it 'checks if name not empty' do
     @group = Group.create(name: '')
     expect(@group.valid?).not_to eq true
   end

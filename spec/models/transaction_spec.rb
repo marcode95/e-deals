@@ -9,7 +9,7 @@ RSpec.describe Transaction, type: :model do
     should validate_presence_of(:amount)
   end
 
-  it "checks if name not empty" do
+  it 'checks if name not empty' do
     @transaction = Transaction.create(name: '')
     expect(@transaction.valid?).not_to eq true
   end
