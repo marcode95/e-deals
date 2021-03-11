@@ -10,6 +10,6 @@ RSpec.feature 'Transactions', type: :feature do
     fill_in :transaction_name, with: 'Fruits'
     fill_in :transaction_amount, with: '500'
     click_on 'Create Transaction'
-    expect(page).to have_text('New Transaction')
+    expect(page).to have_text('Fruits')
   end
 end

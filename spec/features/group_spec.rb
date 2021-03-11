@@ -10,6 +10,6 @@ RSpec.feature 'Transactions', type: :feature do
     click_on 'Create Group'
     fill_in :group_name, with: 'Food'
     click_on 'Create Group'
-    expect(page).to have_content('New Group')
+    expect(page).to have_content('Food')
   end
 end
