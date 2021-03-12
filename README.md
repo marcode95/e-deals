@@ -22,7 +22,7 @@ E-DEALS is a mobile app running flawlessly on devices with widths of more than 3
 
 ## Presentation
 
-https://www.loom.com/share/a451dd1b90894964b2c5af36d7428a4a
+https://www.loom.com/share/be20753b4a6c431b92533fb9de3e01f8
 
 ## Live Demo
 
