@@ -20,10 +20,6 @@ E-DEALS is a mobile app running flawlessly on devices with widths of more than 3
 - Bootstrap
 - Rspec
 
-## Presentation
-
-https://www.loom.com/share/be20753b4a6c431b92533fb9de3e01f8
-
 ## Live Demo
 
 http://gentle-ridge-64258.herokuapp.com/welcome
